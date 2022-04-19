@@ -1,4 +1,4 @@
-# BtcWebScrapingStatisticsBackEnd it is consumed by BtcWebScrapingStatistics
+# BtcWebScrapingStatisticsBackEnd 
 
 Simple pupperteer webScraping program that follows the top 100 bitcoin wallets over time, recording the bitcoin prices and amount averages by size of category, the bitcoin amounts of the top 100 wallets, and notify in case of big withdrawals movements.
 
