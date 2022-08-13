@@ -1,6 +1,7 @@
 //! npx nodemon ./app.ts   to run the server
 // npx tsc  // to compile to javascript
 // node build/app.js  // to run the server
+// ts-node script.ts
 
 import express, { Request, Response, NextFunction } from "express";
 
