@@ -52,7 +52,7 @@ const loop = async function () {
 
   await datosGenerales();
 
-  // after short delay, call itself again
+  // after short delay, call itself again g
   // delay can be removed if you really want to hammer external resources
   //     as much as possible, but usually, you don't want to put that much
   //     load on external resources
